@@ -10,7 +10,7 @@
   - You can see its progress in the scrollable text area
   - It saves the video or audio and subtitle to the current directory
 
-`YT-DLP_HQ_Video_w_Subtitle_EN_lib.py` and `YT-DLP_HQ_MP3_w_Subtitle_EN_lib.py` use the yt-dlp Python library
+`YT-DLP_HQ_Video_w_Subtitle_EN_lib.py` and `YT-DLP_HQ_MP3_w_Subtitle_EN_lib.py` use the `yt-dlp` Python library
 #
 `YT-DLP_HQ_Video_w_Subtitle_EN_local.py` and `YT-DLP_HQ_MP3_w_Subtitle_EN_local.py` work with your local files from the current working directory
 
@@ -20,12 +20,12 @@
 ##### This script has been tested and compiled for the Windows environment.
 #
 
-`YT-DLP_HQ_Video_w_Subtitle_EN_lib.exe` is already bundled and compiled with the yt-dlp Python library.
-`YT-DLP_HQ_Video_w_Subtitle_EN_local.exe` is already bundled and compiled with the yt-dlp.exe and _internal directory included.
+`YT-DLP_HQ_Video_w_Subtitle_EN_lib.exe` is already bundled and compiled with the `yt-dlp` Python library.
+`YT-DLP_HQ_Video_w_Subtitle_EN_local.exe` is already bundled and compiled with the `yt-dlp.exe` and `_internal` directory included.
 # You can use either of them
 
-`YT-DLP_HQ_MP3_w_Subtitle_EN_lib.exe` is already bundled and compiled with the yt-dlp Python library.
-`YT-DLP_HQ_MP3_w_Subtitle_EN_local.exe` is already bundled and compiled with the yt-dlp.exe and _internal directory included.
+`YT-DLP_HQ_MP3_w_Subtitle_EN_lib.exe` is already bundled and compiled with the `yt-dlp` Python library.
+`YT-DLP_HQ_MP3_w_Subtitle_EN_local.exe` is already bundled and compiled with the `yt-dlp.exe` and `_internal` directory included.
 #
 [Download Latest Releases(v1.0.0)](https://github.com/Gabrieliam42/Web_Video_Downloader/releases/tag/1.0.0)
 
