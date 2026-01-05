@@ -13,7 +13,7 @@
 `YT-DLP_HQ_Video_w_Subtitle_EN_lib.py` and `YT-DLP_HQ_MP3_w_Subtitle_EN_lib.py` use the `yt-dlp` Python library
 #
 `YT-DLP_HQ_Video_w_Subtitle_EN_local.py` and `YT-DLP_HQ_MP3_w_Subtitle_EN_local.py` work with your local files from the current working directory
-
+#
 
   Key parameters: Best MP4 quality (or MP3 quality), English subtitles, no subtitle embedding, the video filename is the same as the video name, the same goes with the MP3 name.
 
@@ -22,6 +22,7 @@
 
 `YT-DLP_HQ_Video_w_Subtitle_EN_lib.exe` is already bundled and compiled with the `yt-dlp` Python library.
 `YT-DLP_HQ_Video_w_Subtitle_EN_local.exe` is already bundled and compiled with the `yt-dlp.exe` and `_internal` directory included.
+#
 #### You can use either of them, the two versions are built differently but both versions do the same action.
 
 `YT-DLP_HQ_MP3_w_Subtitle_EN_lib.exe` is already bundled and compiled with the `yt-dlp` Python library.
