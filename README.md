@@ -27,7 +27,7 @@
 `YT-DLP_HQ_MP3_w_Subtitle_EN_lib.exe` is already bundled and compiled with the yt-dlp Python library.
 `YT-DLP_HQ_MP3_w_Subtitle_EN_local.exe` is already bundled and compiled with the yt-dlp.exe and _internal directory included.
 #
-
+[Download Latest Releases(v1.0.0)](https://github.com/Gabrieliam42/Web_Video_Downloader/releases/tag/1.0.0)
 
 
 ##### Requirements:
