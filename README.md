@@ -22,7 +22,7 @@
 
 `YT-DLP_HQ_Video_w_Subtitle_EN_lib.exe` is already bundled and compiled with the `yt-dlp` Python library.
 `YT-DLP_HQ_Video_w_Subtitle_EN_local.exe` is already bundled and compiled with the `yt-dlp.exe` and `_internal` directory included.
-# You can use either of them
+#### You can use either of them, the two versions are built differently but both versions do the same action.
 
 `YT-DLP_HQ_MP3_w_Subtitle_EN_lib.exe` is already bundled and compiled with the `yt-dlp` Python library.
 `YT-DLP_HQ_MP3_w_Subtitle_EN_local.exe` is already bundled and compiled with the `yt-dlp.exe` and `_internal` directory included.
