@@ -1,6 +1,6 @@
 ## Web Video Downloader
 
-# What each of the scripts does:
+### What each of the scripts does:
   - It checks admin privileges - If not admin, relaunches itself with elevated permissions
   - Then it finds yt-dlp.exe - Searches bundled location (when compiled) or current directory
   - Opens the graphical interface with URL input field
