@@ -35,6 +35,8 @@
 - `yt-dlp`
 
 
+##### The compiled versions don't have any requirements, they are already bundled with everything they need.
+
 
 
 <br><br>
