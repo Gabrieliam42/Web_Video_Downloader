@@ -1,4 +1,4 @@
-## yt-dlp_Video_and_MP3_Downloader
+## Web Video Downloader
 
 # What each of the script does:
   - It checks admin privileges - If not admin, relaunches itself with elevated permissions
