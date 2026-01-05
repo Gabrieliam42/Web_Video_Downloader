@@ -2,7 +2,7 @@
 
 ### What each of the scripts does:
   - It checks admin privileges - If not admin, relaunches itself with elevated permissions
-  - Then it finds yt-dlp.exe - Searches bundled location (when compiled) or current directory
+  - Then it finds yt-dlp.exe - Searches bundled library or temporary location file (when compiled) or it searches the current directory
   - Opens the graphical interface with URL input field
   - The user  should then enter URL , so copy paste the YouTube/Facebook video URL and click "Download Video"
   - The script downloads the video from the URL to the current directory, it uses yt-dlp (https://github.com/yt-dlp/yt-dlp) with a simple GUI to fetch the best quality MP4 (or MP3)
