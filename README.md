@@ -10,7 +10,7 @@
   - You can see its progress in the scrollable text area
   - It saves the video or audio and subtitle to the current directory
 
-`YT-DLP_HQ_Video_w_Subtitle_EN_lib.py` and `YT-DLP_HQ_MP3_w_Subtitle_EN_lib.py` use the `yt-dlp` Python library
+`Web_HQ_Video_w_Subtitle_EN_lib.py` and `Web_HQ_MP3_w_Subtitle_EN_lib.py` use the `yt-dlp` Python library
 #
 
   Key parameters: Best MP4 quality (or MP3 quality), English subtitles, no subtitle embedding, the video filename is the same as the video name, the same goes with the MP3 name.
@@ -18,11 +18,11 @@
 ##### This script has been tested and packaged for the Windows environment.
 #
 
-`YT-DLP_HQ_Video_w_Subtitle_EN_lib.exe` is already bundled with the `yt-dlp` Python library.
+`Web_HQ_Video_w_Subtitle_EN_lib.exe` is already bundled with the `yt-dlp` Python library.
 #
 #### You can use either of them, the two versions are built differently but both versions do the same action.
 
-`YT-DLP_HQ_MP3_w_Subtitle_EN_lib.exe` is already bundled with the `yt-dlp` Python library.
+`Web_HQ_MP3_w_Subtitle_EN_lib.exe` is already bundled with the `yt-dlp` Python library.
 #
 [Download Latest Releases(v1.0.0)](https://github.com/Gabrieliam42/Web_Video_Downloader/releases/tag/1.0.0)
 
