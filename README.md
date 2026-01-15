@@ -10,6 +10,9 @@
   - You can see its progress in the scrollable text area
   - It saves the video or audio and subtitle to the current directory
 
+#
+[Download Latest Releases(v1.0.0)](https://github.com/Gabrieliam42/Web_Video_Downloader/releases/tag/1.0.0)
+
 `Web_HQ_Video_w_Subtitle_EN_lib.py` and `Web_HQ_MP3_w_Subtitle_EN_lib.py` use the `yt-dlp` Python library
 #
 
@@ -23,8 +26,7 @@
 #### You can use either of them, the two versions are built differently but both versions do the same action.
 
 `Web_HQ_MP3_w_Subtitle_EN_lib.exe` is already bundled with the `yt-dlp` Python library.
-#
-[Download Latest Releases(v1.0.0)](https://github.com/Gabrieliam42/Web_Video_Downloader/releases/tag/1.0.0)
+
 
 
 ##### Requirements:
