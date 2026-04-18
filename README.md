@@ -32,6 +32,9 @@
 ##### Requirements:
 
 - `yt-dlp`
+- `yt-dlp==2026.3.17`
+- `playwright==1.58.0`
+- `browser-cookie3==0.20.1`
 
 #
 
